@@ -1,0 +1,16 @@
+html,
+body {
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    align-items: center;
+    text-align: center;
+    background-color:darkslateblue;
+    color:ghostwhite;
+    margin-top: 20px;
+}
+
+.game {
+    border: solid 1px darkgrey;
+    border-radius: 12px;
+}
